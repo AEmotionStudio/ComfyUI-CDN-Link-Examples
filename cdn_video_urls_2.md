@@ -1,4 +1,0 @@
-# Discord CDN URLs
-Last updated: 2025-03-14 23:16:36
-
-1. a781fdbb-7e2a-4b79-b887-ee2a31139555.mp4: https://cdn.discordapp.com/attachments/1330567458817314858/1350351959688740978/a781fdbb-7e2a-4b79-b887-ee2a31139555.mp4?ex=67d66cc3&is=67d51b43&hm=254ebde8100bf3b1997db33d507db5c2d12c3b94bddc6c859989c57c24c9b797&
